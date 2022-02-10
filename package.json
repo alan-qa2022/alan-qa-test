@@ -1,0 +1,14 @@
+{
+    "name": "alan-qa-test",
+    "version": "1.0.0",
+    "description": "Rodar automacao ",
+    "main": "index.js",
+    "scripts": {
+        "test": "npx cypress open"
+    },
+    "author": "Alan Alves",
+    "license": "ISC",
+    "devDependencies": {
+        "cypress": "^9.4.1"
+    }
+}
